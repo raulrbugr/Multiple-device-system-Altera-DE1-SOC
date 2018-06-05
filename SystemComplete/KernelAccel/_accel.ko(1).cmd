@@ -1,0 +1,1 @@
+cmd_/home/root/Buses/SistemaCompleto/Integracion/KernelAccel/accel.ko := ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/root/Buses/SistemaCompleto/Integracion/KernelAccel/accel.ko /home/root/Buses/SistemaCompleto/Integracion/KernelAccel/accel.o /home/root/Buses/SistemaCompleto/Integracion/KernelAccel/accel.mod.o
