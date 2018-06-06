@@ -28,6 +28,8 @@ Using two motes ( one sender and other receiver) we can take humidity and temper
 
 ![](https://www.dropbox.com/s/ed13qefigsc7pq4/testapp.JPG?dl=0)
 
+https://www.youtube.com/watch?v=tzVfwGzz6Hk
+
 ### Accelerometer and accelerometer reader
 
 In the lower right quadrant of Figure a rectangle is drawn, using the
